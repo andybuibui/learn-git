@@ -8,7 +8,7 @@ Git教程
 
 此仓库用于测试Pull Request，推送请使用UTF-8编码。
 
-Pull Request 都会merge
+Welcome Pull Request!!!!
 
 推送格式：
 

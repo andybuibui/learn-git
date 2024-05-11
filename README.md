@@ -6,7 +6,7 @@ Git教程
 - https://git-scm.com/docs
 
 
-此仓库用于测试Pull Request，推送请使用UTF-8编码。
+此仓库用于测试Pull Request。
 
 Welcome Pull Request!!!!
 

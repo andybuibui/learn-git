@@ -8,8 +8,6 @@ Git教程
 
 此仓库用于测试Pull Request。
 
-Welcome Pull Request!!!!
-
 推送格式：
 
 1. 按日期放入文件夹；(Put in a folder by date)
@@ -17,3 +15,5 @@ Welcome Pull Request!!!!
 2. 使用英文文件名；(Use English file name)
 
 3. 扩展名为`.txt`或`.md`。(Refer .txt or .md)
+
+   Welcome Pull Request!!!!

@@ -6,7 +6,7 @@ Git教程
 - https://git-scm.com/docs
 
 
-此仓库用于测试Pull Request。
+本仓库用于测试Pull Request。
 
 推送格式：
 
